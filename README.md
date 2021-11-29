@@ -1,6 +1,6 @@
 ## About me
 
-I am an MSc student in economics at [UFPE](https://sites.google.com/view/pimes-english/main). I am affiliated with the [GAPPE](https://www.gappe.org/) research group and work as RA at the [CLEAN](https://www.clean.unibocconi.eu/wps/wcm/connect/Cdr/CLEAN/Home) research unit at Bocconi University. Formerly, I worked as RA at [Ipea](https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61), a leading research institute maintained by the Brazilian government. My main research interest is on applied microeconometrics, mainly labor, urban, and development economics.
+I am an MSc student in economics at [UFPE](https://sites.google.com/view/pimes-english/main). I am affiliated with the [GAPPE](https://www.gappe.org/) research group and work as RA at the [CLEAN](https://www.clean.unibocconi.eu/wps/wcm/connect/Cdr/CLEAN/Home) research unit at Bocconi University. Formerly, I worked as RA at [Ipea](https://www.ipea.gov.br/portal/index.php?option=com_content&view=frontpage&Itemid=61), a leading research institute maintained by the Brazilian government. My main research interest is on applied microeconomics, mainly labor, urban, and development economics.
 
 I have experience in handling large datasets and running econometric models using **R**, webscrapping with **R**/**Python**, and creating documents using **LaTeX**.
 
