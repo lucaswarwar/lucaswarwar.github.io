@@ -15,7 +15,7 @@ I am currently working and contributing in many projects on Development and Poli
 -
 
 ## Resources
-- Check my [Econometric Notes](econometrics_notes.pdf) from the graduate-level econometrics course at PIMES/UFPE.
+- Check my [Econometric Notes](econometrics_notes(3).pdf) from the graduate-level econometrics course at PIMES/UFPE.
 
 ## Past projects
 
