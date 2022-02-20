@@ -10,7 +10,7 @@ You can find out more on my [CV](Lucas__Resume.pdf) or at my [Twitter profile](h
 
 ## Research
 
-### Working Papers
+### Work in Progress
 - *Intergenerational Mobility in the Land of Inequality* (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/), [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/research), [Breno Sampaio](https://sites.google.com/view/brenosampaio/personal-info), and [Paolo Pinotti](https://sites.google.com/view/paolo-pinotti/home))
 
 ## Resources
