@@ -6,7 +6,7 @@ I am an MSc student in economics at [UFPE](https://sites.google.com/view/pimes-e
 
 I have experience in handling large datasets and running econometric models using **R**, webscrapping with **R**/**Python**, and creating documents using **LaTeX**.
 
-You can find out more on my [CV](Lucas__Resume.pdf) or at my [Twitter profile](https://twitter.com/LucasWarwar).
+You can find out more on my [CV](Lucas__Resume (3).pdf) or at my [Twitter profile](https://twitter.com/LucasWarwar).
 
 ## Research
 
