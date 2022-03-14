@@ -11,9 +11,12 @@ You can find out more on my [CV](Lucas__Resume(3).pdf) or at my [Twitter profile
 ## Research
 
 ### Work in Progress
-- *Intergenerational Mobility in the Land of Inequality* (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/), [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/research), [Breno Sampaio](https://sites.google.com/view/brenosampaio/personal-info), and [Paolo Pinotti](https://sites.google.com/view/paolo-pinotti/home))
+- *Intergenerational Mobility in the Land of Inequality* 
+  - (with [Diogo Britto](https://sites.google.com/site/diogobrittoecon/), [Alexandre Fonseca](https://sites.google.com/view/alexandrefonseca/research), [Breno Sampaio](https://sites.google.com/view/brenosampaio/personal-info), and [Paolo Pinotti](https://sites.google.com/view/paolo-pinotti/home))
 
-## Resources
+## Code & Resources
+- Finding the largest connected set in a panel of workers and firms ([R Code](https://gist.github.com/lucaswarwar/6d3607357a25351a9b88366f1028ca28)).
+  - In [AKM (1999)](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00020) wage models, establishment effects are only identifiable within "connected sets" of firms linked by worker mobility across time. These models are vastly used in the literature studying gender and racial wage gaps, e.g. [Card, Cardoso & Kline (2016)](https://academic.oup.com/qje/article/131/2/633/2606904?login=true). Given a worker-firm panel, the code above finds the largest such set.
 - Check my [Econometric Notes](econometrics_notes(3).pdf) from the graduate-level econometrics course at PIMES/UFPE.
 
 ## Past projects
