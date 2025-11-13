@@ -12,11 +12,11 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: papers/
-          weight: 2
-        - name: Work in Progress
           url: wp/
-          weight: 3
+          weight: 2
+        #- name: Work in Progress
+        #  url: wp/
+         # weight: 3
         - name: Home
           url: /
           weight: 1
