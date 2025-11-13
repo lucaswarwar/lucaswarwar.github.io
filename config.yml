@@ -23,7 +23,7 @@ menu:
          # url: data/
           #weight: 3 
         - name: CV
-          url: cv.pdf
+          url: CV_LucasWarwar-2.pdf
           weight: 4
 
 params:
