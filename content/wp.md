@@ -1,15 +1,14 @@
 ---
-title: "Work in Progress"
+title: "Research"
 description: "My current reading list."
 ---
 
 ### Work in Progress
 
-- **Recession and Credit Crunch: The Lasting Consequences of a Banking Expropriation**  (Joint with [D. Araújo](https://sites.google.com/view/danielmaraujo/research?authuser=0) and [Y. Barreto](https://sites.google.com/view/yuribcoliveira/research?authuser=0)) -- [Draft Soon] -- *Presented at the LACEA Annual Meeting, 2023; 45º SBE, 2023*
-- **Conditional Cash Trasnfers and Intergenerational Mobility** (Joint with D. Britto, A. Fonseca, P. Pinotti, and B. Sampaio) -- [Draft Soon] -- *Presented at 45º SBE, 2023*
-- **Parenthood and Productivity** (Joint with D. Britto, C. de Holanda, B. Ferman, A. Fonseca, and B. Sampaio) *Presented at 45º SBE, 2023*
+- **Paired Movers: A New Test of (log) Additive Separability**  (with [Isaac Sorkin](https://sites.google.com/site/isaacsorkin/home?)) -- [PDF]
+- **Intergenerational Mobility in the Land of Inequality** (with D. Britto, A. Fonseca, P. Pinotti, and B. Sampaio) -- [PDF] -- *R&R, REStat*
 
 ### Policy and other projects
 
-- [Partnership with IMDS](https://imdsbrasil.org/projeto/atlas-da-mobilidade-e-policy-papers-com-registros-administrativos-2/) to create the "Brazilian Income Mobility Database", aka Brazilian "Opportunity Atlas" -- *Ongoing*
+- [Brazilian Mobility Atlas](https://imdsbrasil.org/projeto/atlas-da-mobilidade-e-policy-papers-com-registros-administrativos-2/).
 - Partnership with the Brazilian Tax Authority (RFB) to estimate income tax evasion using Machine Learning -- *Ongoing*
