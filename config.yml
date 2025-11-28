@@ -72,7 +72,7 @@ params:
              # url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_LucasWarwar-2.pdf
         - name: Email
           url: mailto:warwar@stanford.edu
         - name: LinkedIn
