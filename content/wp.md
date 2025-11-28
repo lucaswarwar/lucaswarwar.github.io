@@ -18,10 +18,22 @@ title: "Research"
 
 ### Work in Progress:
 
+**Hidden Recovery: Informality and the Costs of Job Loss** -- [*Draft Soon*]
+<details>
+  <summary>[Abstract]</summary>
+  Job loss is associated with significant and persistent earnings losses. In developing economies, many workers turn to informal jobs after displacement, limiting our understanding of the actual costs of job loss in these settings. Using matched survey and administrative data from Brazil, I show that informality cushions one-third of the average earnings losses in the first year after displacement. Informal reallocation following job loss is associated with worse long-run formal labor market outcomes than finding a new formal job, but better outcomes than remaining unemployed for longer. Using a partial equilibrium search model, I estimate that while cumulative formal earnings losses over seven years after displacement are 39%, total earnings losses are only 26%. After accounting for informality, the costs of job loss in Brazil edge closer to those in developed countries. The “hidden recovery” of workers is characterized by a quicker reentry into the overall labor market, which helps avoid the scarring associated with job loss. My findings highlight the importance of accounting for informality when analyzing the labor market of developing countries, and have implications for advanced economies with a growing number of gig and self-employed workers.
+</details>
+
+**Territorial Informality, Slums, and Urban Development** (with D. Britto, A. Fonseca, P. Pinotti, and B. Sampaio) -- [*Draft Soon*]
+<details>
+  <summary>[Abstract]</summary>
+  Conditional Cash Transfers (CCTs) are widely used as a poverty reduction policy. While a large stream of literature has evaluated their short-term impacts, we know far less about their long-term effects. This paper investigates the long-term, intergenerational effects of one of the largest CCT in the world: Brazil's Programa Bolsa Família (PBF). To estimate PBF long-term effects, we compare adult outcomes of siblings more and less exposed to the program due to their age in families targeted and not by the program, using a difference-in-differences design and a comprehensive set of population-wide administrative datasets. We show that PBF significantly increases human capital accumulation, earnings, and intergenerational income mobility, while it reduces the welfare dependency of the next generation. These effects are more pronounced for younger children and women, highlighting the importance of early exposure to the program. Our findings underscore the effectiveness of PBF in breaking the intergenerational cycle of poverty and fostering social mobility.
+</details>
+
 **Do Conditional Cash Transfers Create the Conditions to Thrive? Bolsa Familia and Social Mobility in Brazil** (with D. Britto, A. Fonseca, P. Pinotti, and B. Sampaio) -- [*Draft Soon*]
 <details>
   <summary>[Abstract]</summary>
-  We provide the first estimates of intergenerational income mobility using population-wide tax data for a large developing country, namely Brazil. We measure formal income from tax and payroll data, and we train machine learning models on census and survey data to predict informal income. We quantify the estimation bias resulting from income imputation and other sources of measurement error, and show that such bias remains negligible in our context. A 10 percentile increase in parental income rank is associated on average with a 5.5 percentile increase in child income rank, with considerable variation across sociodemographic groups and geographical areas.
+  Conditional Cash Transfers (CCTs) are widely used as a poverty reduction policy. While a large stream of literature has evaluated their short-term impacts, we know far less about their long-term effects. This paper investigates the long-term, intergenerational effects of one of the largest CCT in the world: Brazil's Programa Bolsa Família (PBF). To estimate PBF long-term effects, we compare adult outcomes of siblings more and less exposed to the program due to their age in families targeted and not by the program, using a difference-in-differences design and a comprehensive set of population-wide administrative datasets. We show that PBF significantly increases human capital accumulation, earnings, and intergenerational income mobility, while it reduces the welfare dependency of the next generation. These effects are more pronounced for younger children and women, highlighting the importance of early exposure to the program. Our findings underscore the effectiveness of PBF in breaking the intergenerational cycle of poverty and fostering social mobility.
 </details>
 
 ### Policy and other projects
