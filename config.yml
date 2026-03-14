@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Lucas Warwar
-          subtitle: "I am a PhD student in Economics at Stanford University. My research covers topics in labor and public economics in developing countries.\n\n\nIn my free time, I run (a lot). From Brazil.\n\n\nFeel free to reach out to me at warwar@stanford.edu."
+          subtitle: "I am a PhD student in Economics at Stanford University. My research covers topics in labor and public economics in developing countries.\n\nIn my free time, I run (a lot). From Brazil.\n\nFeel free to reach out to me at warwar@stanford.edu."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160

@@ -1,52 +1,127 @@
-.buttons,
 .main .profile {
     display: flex;
-    justify-content: left;
-}
-.main .profile {
-    align-items: center;
-/*    min-height: calc(100vh  - (var(--gap) * 2));*/
-/*    min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));*/
-    min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 56px 0 48px;
     font-size: var(--homesize);
     line-height: var(--lineheight);
 }
 
-.profile .profile_inner h1 {
-    padding: 12px 0;
-    font-size: 40px;
-}
-
 .profile img {
-    display: inline-table;
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
+    flex-shrink: 0;
+    object-fit: cover;
 }
 
-.buttons {
+.profile .profile_inner {
+    flex: 1;
+    min-width: 0;
+}
+
+.profile .profile_inner h1 {
+    font-size: 26px;
+    font-weight: 600;
+    margin: 0 0 12px 0;
+    padding: 0;
+    letter-spacing: -0.02em;
+    color: var(--primary);
+}
+
+.profile .profile_inner > span {
+    display: block;
+    color: var(--primary);
+    margin-bottom: 16px;
+}
+
+/* Social icons — compact row */
+.social-icons {
+    padding: 0 0 12px;
+    display: flex;
+    gap: 12px;
     flex-wrap: wrap;
-    margin: 0 auto;
+    align-items: center;
+}
+
+.social-icons a {
+    color: var(--secondary);
+    text-decoration: none;
+    transition: color 0.15s;
+}
+
+.social-icons a:hover {
+    color: var(--accent);
+}
+
+.social-icons a svg {
+    height: 20px;
+    width: 20px;
+    display: block;
+}
+
+/* Profile buttons — plain text links */
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0;
+    margin-top: 4px;
 }
 
 .button {
-    background: var(--tertiary);
-    border-radius: var(--radius);
-    margin: 8px 16px 8px 0px;
-    padding: 6px;
-    transition: transform 0.1s;
-}
-
-.button-inner {
-    padding: 0 8px;
+    background: none;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .button:hover {
-    background: var(--midpurple);
+    background: none;
 }
 
-.gray-line {
-    border: 4px solid;
-    color: var(--tertiary);
-/*    height: 1px;*/
-    width: 100%;
-/*    padding: 18px 18px;*/
-  }
+.button-inner {
+    padding: 0;
+    font-size: var(--homesize);
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.button:hover .button-inner {
+    opacity: 0.75;
+}
+
+/* Separator between buttons */
+.button + .button::before {
+    content: "·";
+    color: var(--secondary);
+    padding: 0 8px;
+    font-weight: 300;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 520px) {
+    .main .profile {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 24px;
+        padding: 40px 0 32px;
+    }
+
+    .profile img {
+        width: 110px;
+        height: 110px;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+
+    .buttons {
+        justify-content: center;
+    }
+}
