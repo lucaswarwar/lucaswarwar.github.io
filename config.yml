@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a PhD student in Economics at Stanford University. My research interests are in public and labor economics."
-    author: Lucas
+    #author: Lucas
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
