@@ -23,7 +23,7 @@ menu:
          # url: data/
           #weight: 3 
         - name: CV
-          url: CV_LucasWarwar-2.pdf
+          url: cv.pdf
           weight: 4
 
 params:
@@ -72,7 +72,7 @@ params:
              # url: archive/
     socialIcons:
         - name: CV
-          url: CV_LucasWarwar-2.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:warwar@stanford.edu
         - name: LinkedIn
