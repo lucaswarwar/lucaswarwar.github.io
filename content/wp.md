@@ -2,15 +2,22 @@
 title: "Research"
 ---
 
+## Publications
+
+**Intergenerational Mobility in the Land of Inequality** [[PDF]](/IGM_BFPSW_RESTAT.pdf) *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), and [B. Sampaio](https://sites.google.com/view/brenosampaio/))* *Forthcoming, REStat* 
+
 ## Working Papers
 
-**Paired Movers** [[PDF]](/sw_logadditivity.pdf) *(with [Isaac Sorkin](https://sites.google.com/site/isaacsorkin/home))*  
+**Paired Movers** [[PDF]](/sw_logadditivity.pdf) *(with [Isaac Sorkin](https://sites.google.com/site/isaacsorkin/home))* *Submitted*
 
-**Intergenerational Mobility in the Land of Inequality** [[PDF]](/IGM_BFPSW_RESTAT.pdf) *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), and [B. Sampaio](https://sites.google.com/view/brenosampaio/))* *Accepted, REStat* 
+**Parenthood and Productivity** [[PDF]](/BDFFSW.pdf) *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [C. de Holanda](https://sites.google.com/view/caiodeholanda/home), [B. Ferman](https://sites.google.com/site/brunoferman/), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), and [B. Sampaio](https://sites.google.com/view/brenosampaio/))* *Submitted* 
+
 
 ## Work in Progress
 
 **Hidden Recovery: Informality and the Costs of Job Loss** [*Draft Soon*]
+
+**Sorting on the Work Environment** [*Draft Soon*] *(with [A. Francavilla]()*
 
 **Territorial Informality, Slums, and Urban Development** [*Draft Soon*] *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [L. Conwell](https://www.lucasconwell.com), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), [B. Sampaio](https://sites.google.com/view/brenosampaio/), and [G. Ulyssea](https://sites.google.com/view/gabriel-ulyssea))*
 
