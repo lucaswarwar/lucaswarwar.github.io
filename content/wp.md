@@ -15,7 +15,9 @@ title: "Research"
 
 ## Work in Progress
 
-**Hidden Recovery: Informality and the Costs of Job Loss** [*Draft Soon*]
+**Hidden Recovery: Job Loss, Liquidity Constraints, and Informality** [*Draft Soon*]
+
+**Job Search with Informality: The Role of Preferences and Information** [*Draft Soon*]
 
 **Sorting on the Work Environment** [*Draft Soon*] *(with [A. Francavilla]()*
 
