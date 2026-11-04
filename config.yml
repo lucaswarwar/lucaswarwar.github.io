@@ -27,7 +27,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am a PhD student in Economics at Stanford University. My research interests are in public and labor economics."
+    description: "I am a fourth-year PhD student in Economics at Stanford University. My research interests are in the intersection of labor and development economics, particularly informal and self-employment in Latin America."
     #author: Lucas
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Lucas Warwar
-          subtitle: "I am a PhD student in Economics at Stanford University. My research covers topics in labor and public economics in developing countries.\n\nIn my free time, I run (a lot). From Brazil.\n\nFeel free to reach out to me at warwar@stanford.edu."
+          subtitle: "I am a fourth-year PhD student in Economics at Stanford University. My research interests are in the intersection of labor and development economics, particularly informal and self-employment in Latin America.\n\nIn my free time, I swim, bike, and run (in that order). \n\nFeel free to reach out to me at warwar@stanford.edu."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
