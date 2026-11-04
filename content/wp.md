@@ -4,7 +4,7 @@ title: "Research"
 
 ## Publications
 
-**Intergenerational Mobility in the Land of Inequality** [[PDF]](/IGM_BFPSW_RESTAT.pdf) *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), and [B. Sampaio](https://sites.google.com/view/brenosampaio/))* *Forthcoming, REStat* 
+[**Intergenerational Mobility in the Land of Inequality**](https://direct.mit.edu/rest/article/doi/10.1162/REST.a.1775/136649/Intergenerational-Mobility-in-the-Land-of) [[PDF]](/IGM_BFPSW_RESTAT.pdf) *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), [P. Pinotti](https://sites.google.com/view/paolo-pinotti/home), and [B. Sampaio](https://sites.google.com/view/brenosampaio/))* *Review of Economics and Statistics* 
 
 ## Working Papers
 
@@ -15,11 +15,7 @@ title: "Research"
 
 ## Work in Progress
 
-**Hidden Recovery: Job Loss, Liquidity Constraints, and Informality** [*Draft Soon*]
-
-**Job Search with Informality: The Role of Preferences and Information** [*Draft Soon*]
-
-**Sorting on the Work Environment** [*Draft Soon*] *(with [A. Francavilla]()*
+**The Hidden Recovery: Informality and the Costs of Job Loss** [*Draft Soon*]
 
 **Territorial Informality, Slums, and Urban Development** [*Draft Soon*] *(with [D. Britto](https://sites.google.com/site/diogobrittoecon/research), [L. Conwell](https://www.lucasconwell.com), [A. Fonseca](https://sites.google.com/view/alexandrefonseca/home), [B. Sampaio](https://sites.google.com/view/brenosampaio/), and [G. Ulyssea](https://sites.google.com/view/gabriel-ulyssea))*
 
